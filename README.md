@@ -2,7 +2,6 @@
 
 **DUE ON: 17/10/18 23:59:00 PKT**
 
-
 You will be submitting the solution on HackerRank and on Github. Moreover, you will also add a screenshot showing the number of test cases you passed on HackerRank.
 
 ## Question 01
